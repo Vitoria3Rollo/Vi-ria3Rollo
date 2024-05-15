@@ -3,7 +3,9 @@
 Meu nome é Vitória
 
 -Estou estudando no Alura 
+
 -Estou me desenvolvendo na linguagem JavaScrist
+
 -Utilizo esse espaço para minha organizão e compartilhamento dos meus projetos desenvolvidos
 
 ### Você pode entrar em contato comigo 📧 
