@@ -11,3 +11,6 @@ Meu nome é Vitória
 ### Você pode entrar em contato comigo 📧 
 
 0000110517217xsp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/XAabbheOS24AAAAM/goma-happy.gif)
+
